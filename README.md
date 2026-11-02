@@ -1,3 +1,3 @@
-# 🤖 Agentic Projects
+# 🤖 Agentic Engineering Projects
 Welcome to my agentic projects! <p>
 ## 📑 Table of Contents <br>
